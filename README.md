@@ -32,15 +32,15 @@ The output displays the student ID, subject scores, and their results. individua
 
 
 ## Tools\Techniques
-MySQL
-MySQL WORKBENCH
+   MySQL.
+   MySQL WORKBENCH.
 
 
 ## how to Open and Use the Files
-Download or clone this repository from GitHub.
-Open MySQL Workbench or phpMyAdmin on your system. 
-Open the internship.Assignment3.Data.analysis.with.sql.sql file using directly import it into MySQL Workbench. run the SQL queries step by step.
-Execute each query to see the output and results.
+1. Download or clone this repository from GitHub.
+2. Open MySQL Workbench or phpMyAdmin on your system. 
+3. Open the internship.Assignment5.Data.analysis.with.sql.sql file using directly import it into MySQL Workbench. run the SQL queries step by step.
+4. Execute each query to see the output and results.
 
 
 ## Author 
