@@ -55,6 +55,4 @@ SELECT Studentid,TotalScore,
         WHEN ScienceScore >= 40 THEN 'Pass'
         ELSE 'Fail'
     END AS Science_Status
-from      
-     
-     
+from StudentScore;
