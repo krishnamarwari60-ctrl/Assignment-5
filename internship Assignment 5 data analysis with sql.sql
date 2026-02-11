@@ -41,10 +41,7 @@ SELECT Studentid,TotalScore,
      ----- Identify pass/Fail Status in Specific Subjects
      
      
-     SELECT
-    StudentID,
-
-    MathScore,
+     SELECT StudentID,MathScore,
     CASE
         WHEN MathScore >= 40 THEN 'Pass'
         ELSE 'Fail'
@@ -55,4 +52,4 @@ SELECT Studentid,TotalScore,
         WHEN ScienceScore >= 40 THEN 'Pass'
         ELSE 'Fail'
     END AS Science_Status
-from StudentScore;
+from StudentScores;
