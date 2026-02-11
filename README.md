@@ -16,7 +16,9 @@ The output displays the student ID, subject scores, and their results. individua
 
 
 ## File
-[internship Assignment 5 data analysis with sql.sql](https://github.com/user-attachments/files/25217941/internship.Assignment.5.data.analysis.with.sql.sql)
+
+[internship Assignment 5 data analysis with sql.sql](https://github.com/user-attachments/files/25239136/internship.Assignment.5.data.analysis.with.sql.sql)
+
 
 ##  Screenshot of Queries Result
 
